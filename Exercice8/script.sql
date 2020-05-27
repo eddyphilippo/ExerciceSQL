@@ -1,0 +1,5 @@
+DELETE FROM image
+WHERE id=2;
+
+DELETE FROM videos
+WHERE id=1;

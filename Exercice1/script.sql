@@ -1,0 +1,1 @@
+CREATE DATABASE stockImages CHARACTER SET 'utf8';
